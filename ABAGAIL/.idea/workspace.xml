@@ -15,68 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NewCoderSurveySATest50.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySATest50.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="87" column="89" lean-forward="false" selection-start-line="86" selection-start-column="16" selection-end-line="87" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewCoderSurveySATest65.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySATest65.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="87" column="89" lean-forward="false" selection-start-line="86" selection-start-column="16" selection-end-line="87" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewCoderSurveySATest80.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySATest80.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3468">
-              <caret line="222" column="1" lean-forward="false" selection-start-line="188" selection-start-column="4" selection-end-line="222" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewCoderSurveySATest95.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySATest95.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2992">
-              <caret line="194" column="0" lean-forward="true" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewCoderSurveyGA100Mate25.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGA100Mate25.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="186" column="5" lean-forward="true" selection-start-line="186" selection-start-column="5" selection-end-line="186" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewCoderSurveyGAPopTest100.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGAPopTest100.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="87" column="89" lean-forward="true" selection-start-line="86" selection-start-column="16" selection-end-line="87" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NewCoderSurveyGAPopTest200.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGAPopTest200.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,24 +35,84 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewCoderSurveyGATest50.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NewCoderSurveyGATest50.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGATest50.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
+            <state relative-caret-position="602">
               <caret line="89" column="92" lean-forward="true" selection-start-line="89" selection-start-column="92" selection-end-line="89" selection-end-column="92" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewCoderSurveyGA100Mate100.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGA100Mate100.java">
+      <file leaf-file-name="NewCoderSurveyIterationsRHCTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyIterationsRHCTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2200">
-              <caret line="203" column="38" lean-forward="false" selection-start-line="203" selection-start-column="38" selection-end-line="203" selection-end-column="38" />
+            <state relative-caret-position="1600">
+              <caret line="209" column="9" lean-forward="true" selection-start-line="209" selection-start-column="9" selection-end-line="209" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewCoderSurveyIterationsSATest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyIterationsSATest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewCoderSurveyRHCOptimal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyRHCOptimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="86" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="233" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewCoderSurveyRHC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyRHC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewCoderSurveyGAOptimal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGAOptimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-663">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewCoderSurveySAOptimal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySAOptimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewCoderSurveyRHCRestartsTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyRHCRestartsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="90" column="66" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,6 +130,7 @@
       <find>StandardGeneticAlgorithm</find>
       <find>35</find>
       <find>20</find>
+      <find>nnop</find>
     </findStrings>
     <dirStrings>
       <dir>E:\ML hwk\tempdata\CS4641-Machine-Learning\2. Randomized Optimization\ABAGAIL\ABAGAIL\src</dir>
@@ -647,22 +646,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySATest65.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="87" column="89" lean-forward="true" selection-start-line="86" selection-start-column="16" selection-end-line="87" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySATest80.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3468">
-          <caret line="222" column="1" lean-forward="true" selection-start-line="188" selection-start-column="4" selection-end-line="222" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySATest95.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -761,6 +744,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -820,13 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyRHC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGATestControl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -876,27 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyIterationsSATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="87" column="89" lean-forward="true" selection-start-line="86" selection-start-column="16" selection-end-line="87" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyIterationsRHCTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="223" column="1" lean-forward="true" selection-start-line="189" selection-start-column="4" selection-end-line="223" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySAOptimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyTempTest1E10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -910,13 +866,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyRHCRestartsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3485">
-          <caret line="224" column="63" lean-forward="true" selection-start-line="224" selection-start-column="63" selection-end-line="224" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -1029,8 +978,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGATest50.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="602">
           <caret line="89" column="92" lean-forward="true" selection-start-line="89" selection-start-column="92" selection-end-line="89" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyGAOptimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyIterationsSATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyRHC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyIterationsRHCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="209" column="9" lean-forward="true" selection-start-line="209" selection-start-column="9" selection-end-line="209" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveySAOptimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyRHCOptimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="86" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="233" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABAGAIL/src/opt/test/NewCoderSurveyRHCRestartsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="90" column="66" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
           <folding />
         </state>
       </provider>
