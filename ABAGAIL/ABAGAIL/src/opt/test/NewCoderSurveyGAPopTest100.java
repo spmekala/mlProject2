@@ -31,7 +31,7 @@ import java.util.Scanner;
 public class NewCoderSurveyGAPopTest100 {
     private static Instance[] instances = initializeInstances();
 
-    private static int inputLayer = 4, outputLayer = 1, trainingIterations = 200;
+    private static int inputLayer = 178, outputLayer = 1, trainingIterations = 200;
     private static FeedForwardNeuralNetworkFactory factory = new FeedForwardNeuralNetworkFactory();
     
     private static ErrorMeasure measure = new SumOfSquaresError();
@@ -85,7 +85,7 @@ public class NewCoderSurveyGAPopTest100 {
             
             for(int i = 0; i < oa.length; i++) {
                 networks[i] = factory.createClassificationNetwork(
-                        new int[] {inputLayer, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, outputLayer});
+                        new int[] {inputLayer, 16, 16, 16, 16, 16, 16, 16, outputLayer});
                 nnop[i] = new NeuralNetworkOptimizationProblem(train, networks[i], measure);
             }
             
@@ -187,21 +187,21 @@ public class NewCoderSurveyGAPopTest100 {
     }
 
     private static Instance[] initializeInstances() {
-        
-        double[][][] attributes = new double[7173][][];
+
+        double[][][] attributes = new double[6650][][];
 
         try {
-            BufferedReader br = new BufferedReader(new FileReader(new File("src/opt/test/2016_New_Coder_Survey_NNRO_Normalized.csv")));
+            BufferedReader br = new BufferedReader(new FileReader(new File("src/opt/test/epilepsy_NNRO_Normalized.csv")));
 
             for(int i = 0; i < attributes.length; i++) {
                 Scanner scan = new Scanner(br.readLine());
                 scan.useDelimiter(",");
 
                 attributes[i] = new double[2][];
-                attributes[i][0] = new double[4]; // 4 attributes
+                attributes[i][0] = new double[178]; // 178 attributes
                 attributes[i][1] = new double[1];
 
-                for(int j = 0; j < 4; j++)
+                for(int j = 0; j < 178; j++)
                     attributes[i][0][j] = Double.parseDouble(scan.next());
 
                 attributes[i][1][0] = Double.parseDouble(scan.next());
